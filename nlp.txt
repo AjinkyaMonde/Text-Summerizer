@@ -1,0 +1,18 @@
+NLP
+STEMMINIAZATION
+LEMMINIAZATION
+BAG OF WORDS
+
+NLP
+NATURAL LANGUAGE PROCESSING : Natural language processing (NLP) is a machine learning technology that gives computers the ability to interpret, manipulate, and comprehend human language.
+began in the 1940s, after World War II
+Chatbots   Grammarly  Siri
+Companies use it for several automated tasks, such as to:
+•    Process, analyze, and archive large documents
+•    Analyze customer feedback or call center recordings
+•    Run chatbots for automated customer service
+•    Answer who-what-when-where questions
+•    Classify and extract text
+
+STEMMING
+Stemming is a technique used in Natural Language Processing (NLP) to reduce words to their base or root form. It's like trimming the branches from a tree, leaving you with the core.
